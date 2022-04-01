@@ -1,0 +1,19 @@
+hi bhai 
+    bol bhai "Bol bhai umar teri";
+    bhai ye hai umar1 = 16 ;
+    jab tak bhai (umar1 < 30)
+    {
+        agar bhai (umar1 < 18) 
+        {
+            bol bhai "Chota bhai.";
+            umar1+=1;
+            agla dekh bhai;
+        }
+        agar bhai (umar1 >= 18)
+        {
+            bol bhai "Bada bhai.";
+            bas kar bhai;
+        }
+        umar1+=1; 
+    }
+bye bhai
